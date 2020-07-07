@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from sumar import sumar
 
-print("hello world")
+print(" hello Pandas")
 
 datos={"nombres":["samuel","brenda","vivi"],"edades":[24,24,24]}
 df=pd.DataFrame(datos)
