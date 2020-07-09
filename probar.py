@@ -14,5 +14,6 @@ print("hello python")
 print(restar(8,5))
 
 print(dividir(10,2))
+
 dataframe_csv2=pd.read_csv("C:/Users/Samuel Cueva/Desktop/actividad 1.csv")
 print(dataframe_csv2)
