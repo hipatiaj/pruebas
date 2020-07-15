@@ -12,6 +12,6 @@ def cuadrado(n):
 def raiz_cuadrada(n):
     return np.sqrt(n)
 
-def par(n):
+def num_par(n):
    if n%2==0:
        return "el número es par"
