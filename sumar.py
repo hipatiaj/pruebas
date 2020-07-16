@@ -16,5 +16,3 @@ def num_par(n):
    if n%2==0:
        return "el número es par"
 
-def probar(string):
-    print(string)
